@@ -1,0 +1,9 @@
+*AcroRdrDC*,/quiet,C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+*AcrobatDCUpd*,/q,C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat
+*AcrobatDCx64*,/q,C:\Program Files\Adobe\Acrobat DC\Acrobat
+*splunk-*,/q,C:\NA
+*splunkforwarder*,AGREETOLICENSE=Yes /quiet,C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe
+*SCC*,/VERYSILENT,C:\Program Files\SCAP Compliance Checker*
+*Firefox*,/quiet,C:\Program Files\Mozilla Firefox\firefox.exe
+*VSCodeSetup-x64-*,/q,C:\NA
+*Nessus*,/q,C:\NA
